@@ -646,7 +646,7 @@ svg {
 }
 
 .site-header {
-  background-image: linear-gradient(rgba(49, 60, 78, 0.7) 0%, rgba(49, 60, 78, 0.7) 100%), url("/src/img/header.jpg");
+  background-image: linear-gradient(rgba(49, 60, 78, 0.7) 0%, rgba(49, 60, 78, 0.7) 100%), url("/build/img/header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
