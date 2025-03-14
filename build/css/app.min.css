@@ -785,13 +785,13 @@ svg {
   text-transform: uppercase;
 }
 .plan.inicio {
-  background-image: url("/src/img/icono_inicio.svg");
+  background-image: url("/build/img/icono_inicio.svg");
   background-repeat: no-repeat;
   background-size: 10rem;
   background-position: 50% 2rem;
 }
 .plan.negocio {
-  background-image: url("/src/img/icono_negocio.svg");
+  background-image: url("/build/img/icono_negocio.svg");
   background-repeat: no-repeat;
   background-size: 10rem;
   background-position: 50% 2rem;
@@ -807,7 +807,7 @@ svg {
   }
 }
 .plan.pro {
-  background-image: url("/src/img/icono_pro.svg");
+  background-image: url("/build/img/icono_pro.svg");
   background-repeat: no-repeat;
   background-size: 10rem;
   background-position: 50% 2rem;
@@ -844,7 +844,7 @@ svg {
   width: 5rem;
   height: 5rem;
   display: block;
-  background-image: url("/src/img/comilla.svg");
+  background-image: url("/build/img/comilla.svg");
   background-repeat: no-repeat;
   background-size: 4rem;
   background-position: center center;
